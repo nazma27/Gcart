@@ -37,8 +37,8 @@ A futuristic, full-stack e-commerce platform focused on sustainable and eco-frie
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd greencart
+   git clone https://github.com/nazma27/Gcart
+   cd Gcart
    ```
 
 2. **Install dependencies**
